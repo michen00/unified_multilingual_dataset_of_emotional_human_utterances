@@ -1,0 +1,14 @@
+multilingual_speech_valence_classification_datasets/*
+!multilingual_speech_valence_classification_datasets/readme
+!multilingual_speech_valence_classification_datasets/datasets/
+multilingual_speech_valence_classification_datasets/datasets/*
+!multilingual_speech_valence_classification_datasets/datasets/aggregate_data_files.tsv
+
+interim/*
+
+# datasets excluded by EULA non-distribution clause
+preprocessed/*+BAUM1+*.wav
+preprocessed/*+BAUM2+*.wav
+preprocessed/*+EmoReact_V_1.0+*.wav
+preprocessed/*+EYASE*.wav
+preprocessed/*+savee*.wav
