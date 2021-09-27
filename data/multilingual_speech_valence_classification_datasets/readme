@@ -1,0 +1,2 @@
+See https://github.com/michen00/multilingual_speech_valence_classification_datasets
+If you want to clone from the above repository, I recommend deleting (or mangling) the .git folder since it is not configured as a subtree or submodule.
