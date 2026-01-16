@@ -1,6 +1,6 @@
 # Unified Multilingual Dataset of Emotional Human Utterances
 
-![Repo Size](https://img.shields.io/github/repo-size/michen00/unified_multilingual_dataset_of_emotional_human_utterances)
+![Repo Size](https://img.shields.io/github/repo-size/michen00/unified_multilingual_dataset_of_emotional_human_utterances?style=plastic)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/michen00/unified_multilingual_dataset_of_emotional_human_utterances)
 
 ---
